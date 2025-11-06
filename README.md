@@ -1,6 +1,5 @@
 ## Hi there my name's Abyan👋 
-#🔭 I’m an active student at Telkom University
-#🌱 I’m currently learning Macchine Learning at dicoding.com
+#🔭 I’m an active student at Telkom University and currently learning Macchine Learning at dicoding.com
 
 <!--
 **abyan-dc/abyan-dc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
